@@ -2,6 +2,7 @@
 layout: post
 title: MAX MIAO 
 ---
+
 ![_config.yml]({{ site.baseurl }}/images/Max_potato.jpg)
 
 
