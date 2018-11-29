@@ -3,9 +3,15 @@ layout: page
 title: Photos!
 permalink: /blog/
 ---
-#RESEARCH
+---
+title: Research
+---
 
 
-#PLACES
 
+
+
+---
+title: Places
+---
 
