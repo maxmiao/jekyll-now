@@ -18,6 +18,6 @@ Research
 
 
 ---
-Places!
+Places
 ---
 
