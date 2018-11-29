@@ -4,7 +4,7 @@ title: Photos!
 permalink: /blog/
 ---
 ---
-Research!
+Research
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/GH_2017-2.jpg)
