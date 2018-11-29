@@ -4,7 +4,7 @@ title: Photos!
 permalink: /blog/
 ---
 ---
-title: Research
+Research
 ---
 
 
@@ -12,6 +12,6 @@ title: Research
 
 
 ---
-title: Places
+Places
 ---
 
