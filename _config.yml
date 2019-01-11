@@ -79,7 +79,7 @@ gems:
 
 #enable Collections in Jekyll site
 collections:
-  photos:
+  images:
     output: true
 
 defaults:
