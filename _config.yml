@@ -80,14 +80,7 @@ gems:
 #enable Collections in Jekyll site
 collections:
   images:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-        type: photos
-    values:
-      layout: photo
+  output: true
 
 # Exclude these files from your production _site
 exclude:
