@@ -79,9 +79,9 @@ gems:
 
 #enable Collections in Jekyll site
 collections:
-  posts:
+  photos:
   output: true
-  permalink: /blog/
+  permalink: /photos/:name
 
 # Exclude these files from your production _site
 exclude:
