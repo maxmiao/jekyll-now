@@ -13,10 +13,6 @@ Research
 
 ![_config.yml]({{ site.baseurl }}/images/GH_2017.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/Yellowstone_2016.jpg)
-
-
-
 ---
 Places
 ---
