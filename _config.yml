@@ -79,7 +79,7 @@ gems:
 
 #enable Collections in Jekyll site
 collections:
-  photos:
+  posts:
   output: true
 
 # Exclude these files from your production _site
