@@ -4,6 +4,7 @@ title: About me
 permalink: /about/
 ---
 
+avatar: https://avatars0.githubusercontent.com/u/10928794?s=460&v=4
 ## Currently a PhD student in UW Madison Plant Pathology Program with Dr. Richard Lankau studying plant rhizosphere microbiome in potato (Solanum Tuberosum) and examining how potato genotype influences microbiome composition and function. 
 
 ### More Information
