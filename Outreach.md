@@ -1,6 +1,8 @@
+---
 layout: page
 title: About me
 permalink: /Outreach/
+---
 
 I believe that Scientific Outreach and Communication is important in promoting scientific agency. As part of the UW graduate student outreach group, 
 What's Eating my Plants (WEMP), we are dedicated to increasing agricultural science accessibility to various K-12 audiences. 
