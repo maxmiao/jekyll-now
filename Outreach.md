@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /Outreach/
+permalink: /outreach/
 ---
 
 I believe that Scientific Outreach and Communication is important in promoting scientific agency. As part of the UW graduate student outreach group, 
