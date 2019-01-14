@@ -8,5 +8,5 @@ I believe that Scientific Outreach and Communication is important in promoting s
 
 Also, as part of the Lankau Lab we strive to bring more awareness of microbial communities to the general public as well. We partcipiate in various outreach events around the greater Madison Area. 
 
-![_config.yml]({{site.baseurl}}/images/45631593_264932067701172_5705461335127490560_o.jpg)
+![_config.yml]({{ site.baseurl }}/images/45631593_264932067701172_5705461335127490560_o.jpg)
 
