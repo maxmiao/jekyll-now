@@ -29,5 +29,3 @@ Places
 
 ![_config.yml]({{ site.baseurl }}/images/fall_2018-18 copy.jpg)
 
-
-{% endfor %}      
