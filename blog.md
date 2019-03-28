@@ -1,3 +1,4 @@
+---
 layout: page
 title: Photos!
 permalink: /blog/
@@ -13,7 +14,6 @@ Research
 
 ![_config.yml]({{ site.baseurl }}/images/GH_2017.jpg)
 
----
 
 ---
 Places
