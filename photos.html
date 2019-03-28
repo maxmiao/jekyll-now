@@ -1,0 +1,10 @@
+---
+layout: page
+title: Photos
+---
+
+{% for photo in site.photos %}
+	<div class="photo">
+		<h2><a href="{{ photo.url }}">{{ photo.title }}</a></h2>
+	</div>
+{% endfor %}
