@@ -1,7 +1,7 @@
 ---
 layout: photo
 title: Photos
-permalink: /photos/
+permalink: /collections/
 ---
 
 {% for photos in site.photos %}
