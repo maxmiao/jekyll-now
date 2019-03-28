@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Photos
+permalink: /photos/
 ---
 
 {% for photos in site.photos %}
