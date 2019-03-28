@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Photos!
-permalink: /Photos/
+permalink: /Blog/
 ---
 
 ---
 Research
 ---
-
 ![_config.yml]({{ site.baseurl }}/images/GH_2017-2.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/GH_2017-3.jpg)
@@ -18,7 +17,6 @@ Research
 ---
 Places
 ---
-
 ![_config.yml]({{ site.baseurl }}/images/SEasia_2015-13.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/Seattle_2018-20.jpg)
