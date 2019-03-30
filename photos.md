@@ -1,16 +1,22 @@
 ---
-layout: photo
+layout: page
 title: Photos
-permalink: /collections/
+permalink: /photos/
 ---
 
-{% for photos in site.photos %}
+{---
+Places
+---
+![_config.yml]({{ site.baseurl }}/images/SEasia_2015-13.jpg)
 
+![_config.yml]({{ site.baseurl }}/images/Seattle_2018-20.jpg)
 
-<a href="{{ photos.url | prepend: site.baseurl }}">
-        <h2>{{ photos.title }}</h2>
-</a>
+![_config.yml]({{ site.baseurl }}/images/Yellowstone_2016-21 copy.jpg)
 
-<p class="post-excerpt">{{ photos.description | truncate: 160 }}</p>
+![_config.yml]({{ site.baseurl }}/images/lost_coast2016-10 copy.jpg)
 
-{% endfor %}      
+![_config.yml]({{ site.baseurl }}/images/fall_2018-18 copy.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/Hawaii_2015-32.jpg)  
+
+![_config.yml]({{ site.baseurl }}/images/scotland-7.jpg) 
