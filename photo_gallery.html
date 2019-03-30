@@ -1,0 +1,25 @@
+---
+layout: default
+images:
+	-image_path: /images/SEasia_2015-13.jpg
+	title: Khao Sok National Park 
+	-image_path: /images/Seattle_2018-20.jpg
+	title: Mt Rainier 
+	-image_path: /images/Yellowstone_2016-21 copy.jpg
+	title: Yellowstone NP 
+	-image_path: /images/lost_coast2016-10 copy.jpg
+	title: Lost Coast Trail 
+	-image_path: /images/fall_2018-18 copy.jpg
+	title: Madison, WI
+	-image_path: /images/Hawaii_2015-32.jpg
+	title: Kawaii, HI
+	-image_path: /images/scotland-7.jpg
+	title: Highland Trail, Scotland
+---
+<ul class="photo-gallery".
+		{% for images in page.images %}
+		<li>
+			<img src="{{ image.image.path }}" alt"{{ image.title }}">
+		<\li>
+		{% endfor %}
+		<ul>
