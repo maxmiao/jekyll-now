@@ -5,7 +5,6 @@ permalink: /photos/
 ---
 
 ---
-Places
 ---
 ![_config.yml]({{ site.baseurl }}/images/SEasia_2015-13.jpg)
 
