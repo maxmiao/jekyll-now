@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Photos!
+title: Blog
 permalink: /blog/
 ---
 
 ---
-Research
+Research 2017
 ---
 ![_config.yml]({{ site.baseurl }}/images/GH_2017-2.jpg)
 
