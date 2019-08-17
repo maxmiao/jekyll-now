@@ -3,6 +3,11 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+Just came back from ESA 2020 and presented my poster! If you missed it here's a pdf copy:
+
+https://uwmadison.box.com/s/t808bppvnhtinvsk1fia2mba74lo0mrg
+
+
 
 ---
 Research 2017
