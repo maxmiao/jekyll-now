@@ -7,10 +7,7 @@ permalink: /blog/
 ---
 ##ESA 2020
 ---
-Just came back from ESA 2020 and presented my poster on part of my first chapter! If you missed it here's a pdf copy:
-
-https://uwmadison.box.com/s/t808bppvnhtinvsk1fia2mba74lo0mrg
-
+Just came back from ESA 2020 and presented my poster on part of my first chapter! If you missed it, [HERE](https://uwmadison.box.com/s/t808bppvnhtinvsk1fia2mba74lo0mrg) is a pdf copy! Looking for constructive feedback! message me [@mjmiao1](twitter.com/mjmiao1). 
 
 
 ---
